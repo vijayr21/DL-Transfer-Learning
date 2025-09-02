@@ -31,7 +31,7 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name:VIJAT R
+### Name:VIJAY R
 
 ### Register Number: 212223240178
 ```python
