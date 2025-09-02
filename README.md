@@ -31,9 +31,9 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name:
+### Name:VIJAT R
 
-### Register Number:
+### Register Number: 212223240178
 ```python
 import torch as t
 import torch.nn as nn
